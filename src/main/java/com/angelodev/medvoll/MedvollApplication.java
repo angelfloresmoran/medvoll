@@ -1,0 +1,15 @@
+package com.angelodev.medvoll;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+
+@SpringBootApplication
+public class MedvollApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MedvollApplication.class, args);
+	}
+
+}
